@@ -1,2 +1,0 @@
-# 🚧VirTEAI🚧
-# ..Em andamento..
