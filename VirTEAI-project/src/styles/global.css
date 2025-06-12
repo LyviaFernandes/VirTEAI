@@ -13,7 +13,7 @@
     padding: 0px;
 }
 
-p, h6{
+p, h6, input{
     font-family: 'Comfortaa';
 }
 
@@ -29,6 +29,7 @@ h2,h1,h3, button{
     --color-aqua-blue: #7EC9D1;
     --color-beje: #C9BBA0;
     --color-blue-table: #CBEFF2;
+    --color-blue-cadastro: #9CB4D3;
 
     font: 'Comfortaa';
 }
