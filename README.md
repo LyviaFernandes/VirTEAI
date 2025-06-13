@@ -51,12 +51,23 @@ O projeto nasceu da necessidade de unir inclusão, tecnologia e saúde mental em
 1. Clone este repositório:
    ```bash
    git clone https://github.com/LyviaFernandes/VirTEAI.git
-2.Instale as dependências:
+
+2 - Abrir a pasta em um editor de código <br>
+   `cd VirTEAI`
+
+3- Acessar o index.html para visualizar o contéudo
+
+### Ou acesse por aqui
+Você também pode acessar clicando nesse link do Github Pages:
+
+- [VirTEAI](https://github.com/LyviaFernandes/virteai/)
+
+4.Instale as dependências:
   cd VirTEAI
   npm install
-3.Inicie o servidor de desenvolvimento:
+5.Inicie o servidor de desenvolvimento:
   npm start
-4. Acesse http://localhost:3000 no seu navegador.
+6. Acesse http://localhost:3000 no seu navegador.
 
 ⚠️ Certifique-se de ter o Node.js e o MySQL instalados em sua máquina.
 
